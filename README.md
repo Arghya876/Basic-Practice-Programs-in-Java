@@ -18,3 +18,4 @@ This repository contains a collection of basic practice programs written in Java
 7. [PrintAtoZ.java](PrintAtoZ.java) - Prints all the alphabets from A to Z.
 8. [VowelConsonant.java](VowelConsonant.java) - Checks whether a character is a vowel or a consonant.
 9. [ASCIIValue.java](ASCIIValue.java) - Prints the ASCII value of a given character.
+10. [Average.java](Average.java) - Calcucate the average marks of five subjects.
