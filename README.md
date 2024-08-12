@@ -19,3 +19,7 @@ This repository contains a collection of basic practice programs written in Java
 8. [VowelConsonant.java](VowelConsonant.java) - Checks whether a character is a vowel or a consonant.
 9. [ASCIIValue.java](ASCIIValue.java) - Prints the ASCII value of a given character.
 10. [Average.java](Average.java) - Calcucate the average marks of five subjects.
+11. [Fact.java](Fact.java) - Computes the factorial of a given number.
+12. [CountNumDigits.java](CountNumDigits.java) - Counts the number of digits in a given number.
+13. [VoteEligible.java](VoteEligible.java) - Determines if a person is eligible to vote based on age.
+14. [MultiplicationTable.java](MultiplicationTable.java) - Prints the multiplication table for a given number.
