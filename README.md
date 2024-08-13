@@ -23,3 +23,4 @@ This repository contains a collection of basic practice programs written in Java
 12. [CountNumDigits.java](CountNumDigits.java) - Counts the number of digits in a given number.
 13. [VoteEligible.java](VoteEligible.java) - Determines if a person is eligible to vote based on age.
 14. [MultiplicationTable.java](MultiplicationTable.java) - Prints the multiplication table for a given number.
+15. [TaxCalculation.java](TaxCalculation.java) - Calculates the tax payable based on income.
