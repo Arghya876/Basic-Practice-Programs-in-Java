@@ -24,3 +24,6 @@ This repository contains a collection of basic practice programs written in Java
 13. [VoteEligible.java](VoteEligible.java) - Determines if a person is eligible to vote based on age.
 14. [MultiplicationTable.java](MultiplicationTable.java) - Prints the multiplication table for a given number.
 15. [TaxCalculation.java](TaxCalculation.java) - Calculates the tax payable based on income.
+16. [Calculator.java](Calculator.java) - A simple calculator that performs basic arithmetic operations.
+17. [AreaOfRectangle.java](AreaOfRectangle.java) - Calculates the area of a rectangle.
+18. [AreaOfCircle.java](AreaOfCircle.java) - Calculates the area of a circle.
