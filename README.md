@@ -27,3 +27,7 @@ This repository contains a collection of basic practice programs written in Java
 16. [Calculator.java](Calculator.java) - A simple calculator that performs basic arithmetic operations.
 17. [AreaOfRectangle.java](AreaOfRectangle.java) - Calculates the area of a rectangle.
 18. [AreaOfCircle.java](AreaOfCircle.java) - Calculates the area of a circle.
+19. [SwapTwoNum.java](SwapTwoNum.java) - Swaps two numbers using a temporary variable.
+20. [SwapTwoNumWithoutThirdVar.java](SwapTwoNumWithoutThirdVar.java) - Swaps two numbers without using a third variable.
+21. [CheckNumIsPosOrNeg.java](CheckNumIsPosOrNeg.java) - Checks whether a number is positive or negative.
+22. [ConCharLowToUpAndViceVersa.java](ConCharLowToUpAndViceVersa.java) - Converts a character from lowercase to uppercase and vice versa.
