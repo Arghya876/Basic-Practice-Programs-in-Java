@@ -31,3 +31,8 @@ This repository contains a collection of basic practice programs written in Java
 20. [SwapTwoNumWithoutThirdVar.java](SwapTwoNumWithoutThirdVar.java) - Swaps two numbers without using a third variable.
 21. [CheckNumIsPosOrNeg.java](CheckNumIsPosOrNeg.java) - Checks whether a number is positive or negative.
 22. [ConCharLowToUpAndViceVersa.java](ConCharLowToUpAndViceVersa.java) - Converts a character from lowercase to uppercase and vice versa.
+23. [LeapYear.java](LeapYear.java) - Checks whether a given year is a leap year.
+24. [ReverseNumber.java](ReverseNumber.java) - Reverses a given number.
+25. [SumOfDigits.java](SumOfDigits.java) - Calculates the sum of digits of a given number.
+26. [PrimeNum.java](PrimeNum.java) - Checks whether a given number is a prime number.
+27. [PalindromeNum.java](PalindromeNum.java) - Checks whether a given number is a palindrome.
