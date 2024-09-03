@@ -36,3 +36,4 @@ This repository contains a collection of basic practice programs written in Java
 25. [SumOfDigits.java](SumOfDigits.java) - Calculates the sum of digits of a given number.
 26. [PrimeNum.java](PrimeNum.java) - Checks whether a given number is a prime number.
 27. [PalindromeNum.java](PalindromeNum.java) - Checks whether a given number is a palindrome.
+28. [ArmstrongNum.java](ArmstrongNum.java) - Checks whether a given number is an Armstrong number.
